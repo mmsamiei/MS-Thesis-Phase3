@@ -3,5 +3,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.aviny.com/Album/tasvir-sazi/shakhes/kamel/35.jpg" style="width:100%"/>
+  <img src="https://www.aviny.com/Album/tasvir-sazi/shakhes/kamel/35.jpg" style="width:70%"/>
 </div>
